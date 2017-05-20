@@ -1,4 +1,5 @@
-*/
+*
+!falloutmod/
 !falloutmod/*
 !falloutmod.mod
 !.gitignore
