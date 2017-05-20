@@ -41,7 +41,7 @@ ideologies = {
 			generate_wargoal_tension = 1.00
 			join_faction_tension = 0.80
 			lend_lease_tension = 0.50
-			send_volunteers_tension = 0.50
+			send_volunteers_tension = 0.25
 			guarantee_tension = 0.25
 			take_states_cost_factor = 0.25
 			annex_cost_factor = 0.5
@@ -123,7 +123,7 @@ ideologies = {
 		faction_impact_on_world_tension = 1.0
 		
 		rules = {
-			can_force_government = no
+			can_force_government = yes
 			can_send_volunteers = yes
 			can_puppet = yes
 		}
@@ -159,20 +159,20 @@ ideologies = {
 		color = { 124 124 124 }
 		
 		
-		war_impact_on_world_tension = 0.25		#no major danger
+		war_impact_on_world_tension = 0.15		#no major danger
 		faction_impact_on_world_tension = 0.1
 		
 		rules = {
 			can_force_government = no
-			can_puppet = no
-			can_send_volunteers = no
+			can_puppet = yes
+			can_send_volunteers = yes
 		}
 		
 		modifiers = {
 			#increased_influence_factor = 0.3 #30% easier to influence
 			generate_wargoal_tension = 0.5
-			join_faction_tension = 0.4
-			lend_lease_tension = 0.4
+			join_faction_tension = 0.6
+			lend_lease_tension = 0.3
 			send_volunteers_tension = 0.4
 			guarantee_tension = 0.4
 			drift_defence_factor = -0.3	
