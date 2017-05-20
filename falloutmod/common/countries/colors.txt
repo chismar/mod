@@ -1,0 +1,44 @@
+VEG = {
+	color = rgb { 51 155 0 }
+	color_ui = rgb { 210 147 217 }
+}
+BOS = {
+	color = HSV { 0.1 0.15 0.4 }
+	color_ui = rgb { 138 155 116 }
+}
+MOJ = {
+	color = HSV { 0.1 0.15 0.4 }
+	color_ui = rgb { 138 155 116 }
+}
+NCR = {
+	color = rgb { 153 116 93 }
+	color_ui = rgb { 199 151 121 }
+}
+BOM = {
+	color = rgb { 75 77 186 }
+	color_ui = rgb { 124 125 184 }
+}
+JCB = {
+	color = rgb { 80 159 90 }
+	color_ui = rgb { 104 207 117 }
+}
+KHA = {
+	color = rgb { 111 71 71 }
+	color_ui = rgb { 144 92 92 }
+}
+CES = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+LDS = {
+	color = rgb { 170  125  80 }
+	color_ui = rgb { 170  125  80 }
+}
+WHT = {
+	color = rgb { 194 198 215 }
+	color_ui = rgb { 255 255 255 }
+}
+POW = {
+	color = rgb { 72 73 136 }
+	color_ui = rgb { 94 95 164 }
+}

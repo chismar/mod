@@ -1,0 +1,28 @@
+bookmarks = {
+	bookmark = {
+		name = "NEW_VEGAS_NAME"
+		desc = "NEW_VEGAS_DESC"
+		date = 2277.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "NCR"
+		default = yes
+		
+		"NCR"={
+			history = "NCR_NEW_VEGAS_DESC"
+			ideology = people
+		}
+		#"CES"={
+		#	history = "CES_NEW_VEGAS_DESC"
+		#	ideology = feudalism
+		#}
+		
+		"---"={
+			history = "OTHER_NEW_VEGAS_DESC"
+		}
+
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
