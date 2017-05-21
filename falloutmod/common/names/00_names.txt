@@ -6,7 +6,7 @@
 
 default = {
 	male = {
-		names = { "John" "Bob" "Lucas" "Marcus" "Alexander" "Alex" "Peter" "Jonas" "Jim" "Johannes"}
+		names = { "John" "Bob" "Lucas" "Marcus" "Alexander" "Alex" "Peter" "Jonas" "Jim" "Johannes" "Marcus" "Damon"}
 		surnames = { }
 		callsigns = { }
 	}
@@ -15,7 +15,7 @@ default = {
 	#	surnames = { }
 	#	callsigns = { "Queen Of The Sky" "The Red Princess" }
 	#}
-	surnames = { "Smith" "Jones" "Taylor" "Brown" "Williams" "Wilson" "Evans" "Walker" "White" "Roberts" }
-	callsigns = { "Easy Kill" "The Lightning" "The Devil" "Grasshopper" "Handsome" "Moose" "Mouse" "Pebbles" "Sunshine" Demon}
+	surnames = { "Smith" "Jones" "Taylor" "Brown" "Williams" "Wilson" "Evans" "Walker" "White" "Roberts" "Connor" "Gillardia" "Foster" "Gaster"}
+	callsigns = { "Easy Kill" "The Lightning" "The Devil" "Grasshopper" "Handsome" "Moose" "Mouse" "Pebbles" "Sunshine" "Dive Bomb" "The Wraith" "Rabbit" "Flat Top" "No Non-Combatants" "The Hunter"}
 }
 

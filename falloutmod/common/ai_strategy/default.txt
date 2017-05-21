@@ -18,7 +18,7 @@
 default_unit_production = {
 	enable = {
 		always = yes
-		NOT = { original_tag = GER }
+		NOT = { original_tag = NCR }
 	}
 	
 	ai_strategy = {
@@ -148,7 +148,7 @@ default_unit_production = {
 
 default_paratroopers_production = {
 	enable = {
-		NOT = { original_tag = GER }
+		NOT = { original_tag = NCR }
 		ai_wants_divisions >  12 #Massively decreasing the amount of paratroopers the AI wants
 	}
 	abort = {
@@ -164,7 +164,7 @@ default_paratroopers_production = {
 
 default_mountaineers_production = {
 	enable = {
-		NOT = { original_tag = GER }
+		NOT = { original_tag = NCR }
 		ai_wants_divisions > 11 #Decreasing the amount of mountaineers the AI wants
 	}
 	abort = {
@@ -180,7 +180,7 @@ default_mountaineers_production = {
 
 default_marines_production = {
 	enable = {
-		NOT = { original_tag = GER }
+		NOT = { original_tag = NCR }
 		ai_wants_divisions > 49
 	}
 	abort = {
@@ -202,7 +202,7 @@ default_marines_production = {
 
 default_cavalry_production = {
 	enable = {
-	NOT = { original_tag = GER }
+	NOT = { original_tag = NCR }
 		ai_wants_divisions > 0 #Removing the amount of cavalry the AI wants
 	}
 	abort = {
@@ -218,7 +218,7 @@ default_cavalry_production = {
 
 default_motorized_production = {
 	enable = {
-		NOT = { original_tag = GER }
+		NOT = { original_tag = NCR }
 		ai_wants_divisions > 11
 	}
 	abort = {
