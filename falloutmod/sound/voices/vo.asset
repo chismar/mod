@@ -7,6 +7,11 @@ category =
 	CES_infantry_positive_combat
 	CES_infantry_retreat
 	CES_infantry_move_out
+	VEG_infantry_idle
+	VEG_infantry_neutral_combat
+	VEG_infantry_positive_combat
+	VEG_infantry_retreat
+	VEG_infantry_move_out
  }
   compressor = 
  {
@@ -87,6 +92,71 @@ soundeffect =
 	playbackrate_random_offset = { 0.0 -0.15}
 }
 
+##### VEG
+soundeffect = 
+{
+    name = "VEG_infantry_idle"
+    sounds = {
+		sound = ve_Idle_001
+       	
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = 
+{
+    name = "VEG_infantry_neutral_combat"
+    sounds = {
+        sound = ve_Neutral_001
+        sound = ve_Neutral_002
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect = 
+{
+    name = "VEG_infantry_positive_combat"
+    sounds = {
+        sound = ve_Positive_001
+		sound = ve_Positive_002
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect = 
+{
+    name = "VEG_infantry_retreat"
+    sounds = {
+	sound = ve_Retreat_001
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect = 
+{
+    name = "VEG_infantry_move_out"
+    sounds = {
+        sound = ve_Positive_001
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+
 ######## files
 
 #Caesar's Legion
@@ -118,3 +188,31 @@ file = "ces/ce_Neutral_002"
 name = "ce_Positive_001"
 file = "ces/ce_Positive_001"
 }
+
+######## files
+
+#New Vegas
+sound =
+{
+name = "ve_Idle_001"
+file = "veg/ve_Idle_001"
+}
+sound =
+{
+name = "ve_Neutral_001"
+file = "veg/ve_Neutral_001"
+}
+{
+name = "ve_Neutral_002"
+file = "veg/ve_Neutral_002"
+}
+{
+name = "ve_Positive_001"
+file = "veg/ve_Positive_001"
+}
+{
+name = "ve_Positive_002"
+file = "veg/ve_Positive_002"
+}
+
+
