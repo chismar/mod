@@ -1,6 +1,6 @@
 NCR = "countries/NCR - New California Republic.txt"
-BOS = "countries/BOS - Brotherhood.txt"
 CES = "countries/CES - Caesar's Legion.txt"
+BOS = "countries/BOS - Brotherhood.txt"
 ANT = "countries/ANT - Antelope Tribe.txt"
 ARR = "countries/ARR - Arroyo.txt"
 BDT = "countries/BDT - Bone Dancer.txt"
