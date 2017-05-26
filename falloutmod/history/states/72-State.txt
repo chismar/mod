@@ -1,0 +1,12 @@
+state={	id=72
+	name="STATE_72"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=CES}
+	provinces={
+		3108 3115 3300 3107 3292 3301 3302 3100 
+	}
+}
