@@ -7,6 +7,6 @@ state={	id=67
 	history={
 		owner=BOS}
 	provinces={
-		2736 2233 2740 
+		2735 2232 2739 
 	}
 }
