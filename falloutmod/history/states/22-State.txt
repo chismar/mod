@@ -7,6 +7,6 @@ state={	id=22
 	history={
 		owner=NCR}
 	provinces={
-		2291 2659 2649 2647 1752 2627 2625 
+		2495 
 	}
 }

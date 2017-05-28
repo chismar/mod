@@ -163,30 +163,32 @@ soundeffect =
 sound =
 {
 name = "ce_Idle_001"
-file = "ces/ce_Idle_001"
+file = "ces/ce_Idle_001.wav"
 }
 sound =
 {
 name = "ce_Idle_002"
-file = "ces/ce_Idle_003"
+file = "ces/ce_Idle_002.wav"
 }
 sound =
 {
 name = "ce_Idle_003"
-file = "ces/ce_Idle_003"
+file = "ces/ce_Idle_003.wav"
 }
 sound =
 {
 name = "ce_Neutral_001"
-file = "ces/ce_Neutral_001"
+file = "ces/ce_Neutral_001.wav"
 }
+sound =
 {
 name = "ce_Neutral_002"
-file = "ces/ce_Neutral_002"
+file = "ces/ce_Neutral_002.wav"
 }
+sound =
 {
 name = "ce_Positive_001"
-file = "ces/ce_Positive_001"
+file = "ces/ce_Positive_001.wav"
 }
 
 ######## files
@@ -195,24 +197,27 @@ file = "ces/ce_Positive_001"
 sound =
 {
 name = "ve_Idle_001"
-file = "veg/ve_Idle_001"
+file = "veg/ve_Idle_001.wav"
 }
 sound =
 {
 name = "ve_Neutral_001"
-file = "veg/ve_Neutral_001"
+file = "veg/ve_Neutral_001.wav"
 }
+sound =
 {
 name = "ve_Neutral_002"
-file = "veg/ve_Neutral_002"
+file = "veg/ve_Neutral_002.wav"
 }
+sound =
 {
 name = "ve_Positive_001"
-file = "veg/ve_Positive_001"
+file = "veg/ve_Positive_001.wav"
 }
+sound =
 {
 name = "ve_Positive_002"
-file = "veg/ve_Positive_002"
+file = "veg/ve_Positive_002.wav"
 }
 
 

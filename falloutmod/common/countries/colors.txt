@@ -14,10 +14,6 @@ NCR = {
 	color = rgb { 153 116 93 }
 	color_ui = rgb { 199 151 121 }
 }
-BOM = {
-	color = rgb { 75 77 186 }
-	color_ui = rgb { 124 125 184 }
-}
 JCB = {
 	color = rgb { 80 159 90 }
 	color_ui = rgb { 104 207 117 }
