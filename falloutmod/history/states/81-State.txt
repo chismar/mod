@@ -1,5 +1,5 @@
 state={	id=81
-	name="STATE_82"
+	name="STATE_81"
 	manpower=1000
 	state_category=rural
 	resources={
@@ -7,6 +7,6 @@ state={	id=81
 	history={
 		owner=CES}
 	provinces={
-		902 3096 3247 921 3062 
+		3208 3207 3025 3265 3043 852 2468 
 	}
 }
