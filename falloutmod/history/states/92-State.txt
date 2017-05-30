@@ -7,6 +7,6 @@ state={	id=92
 	history={
 		owner=CES}
 	provinces={
-		3180 
+		2064 2071 2065 2062 2063 2207 1824 1732 
 	}
 }
