@@ -1,4 +1,5 @@
-﻿oob = "CES_2277"
+﻿capital = 2061
+oob = "CES_2277"
 set_technology = {
 }
 set_politics = {

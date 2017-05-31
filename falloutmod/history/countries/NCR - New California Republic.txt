@@ -1,4 +1,5 @@
-﻿oob = "NCR_2277"
+﻿capital = 2624
+oob = "NCR_2277"
 set_technology = {
 }
 set_politics = {
