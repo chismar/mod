@@ -17,11 +17,11 @@
 }
 units = {
 
-	division {
-		name = "1. NCR Rangers"
-		location = 1432
-		division_template = "Rangers"
-		start_experience_factor = 1.0
-		start_equipment_factor = 1.0
-	}
+	#division {
+	#	name = "1. NCR Rangers"
+	#	location = 2663 #1432
+	#	division_template = "Rangers"
+	#	start_experience_factor = 1.0
+	#	start_equipment_factor = 1.0
+	#}
 }
