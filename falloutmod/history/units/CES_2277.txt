@@ -1,5 +1,5 @@
 ﻿division_template = {
-	name = "Blueskirt Division"
+	name = "Legionnaires"
 
 	regiments = {
 		infantry = { x = 0 y = 0 }
@@ -14,4 +14,8 @@
 		infantry = { x = 3 y = 0 }
 		infantry = { x = 3 y = 1 }
 	}
+}
+
+
+units = {
 }
