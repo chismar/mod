@@ -51,27 +51,6 @@ ideas = {
 				#has_manpower_for_recruit_change_to =  { value = 0.025 group = mobilization_laws }
 				NOT = { has_idea = undisturbed_isolation }
 				NOT = { has_idea = isolation }
-				if = {
-					limit = {
-						original_tag = AST
-						has_dlc = "Together for Victory"
-					}
-					has_completed_focus = AST_citizen_military_forces
-				}
-				if = {
-					limit = {
-						original_tag = CAN
-						has_dlc = "Together for Victory"
-					}
-					has_completed_focus = CAN_commit_to_the_war
-				}
-				if = {
-					limit = {
-						original_tag = RAJ
-						has_dlc = "Together for Victory"
-					}
-					is_subject = no
-				}
 
 			}
 
