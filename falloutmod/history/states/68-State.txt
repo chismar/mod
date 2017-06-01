@@ -7,6 +7,6 @@ state={	id=68
 	history={
 		owner=NCR}
 	provinces={
-		1735 1897 1247 705 1741 2242 1220 
+		2240 2586 2575 
 	}
 }
