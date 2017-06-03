@@ -1,4 +1,4 @@
-﻿capital = 19
+﻿capital = 26
 oob = "BOS_2277"
 set_technology = {
 }
