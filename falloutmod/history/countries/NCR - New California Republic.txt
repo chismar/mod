@@ -1,4 +1,4 @@
-﻿capital = 98
+﻿capital = 12
 oob = "NCR_2277"
 set_technology = {
 }
