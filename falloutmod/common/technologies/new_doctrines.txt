@@ -2,7 +2,6 @@ technologies = {
 
 	officer_corps_tech = {
 		
-		xor = { superior_firepower trench_warfare mass_assault } 
 
 		path = {
 			leads_to_tech = planning_school
