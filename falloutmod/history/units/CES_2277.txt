@@ -14,8 +14,37 @@
 		infantry = { x = 3 y = 0 }
 		infantry = { x = 3 y = 1 }
 	}
+	priority = 2
+}
+division_template = {
+	name = "Militia Force"
+	regiments = {
+		militia = { x = 0 y = 0 }
+		militia = { x = 0 y = 1 }
+		militia = { x = 1 y = 0 }
+		militia = { x = 1 y = 1 }
+	}
+}
+units = {
+
+	division {
+		name = "1. Legion"
+		location = 3053
+		division_template = "Legionnaires"
+		start_experience_factor = 1.0
+		start_equipment_factor = 1.0
+	}
 }
 
-
-units = {
+##### Starting Production #####
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_0
+			creator = "CES"
+		}
+		requested_factories = 1
+		progress = 0.75
+		efficiency = 100
+	}
 }
