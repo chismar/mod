@@ -16,14 +16,12 @@ intellectuals = {
 ruler = {
  popularity = 0 
 }
-
 }
 		ruling_party = elites
 		elections_allowed = no
 }
 add_ideas = {
 }
-
 create_country_leader  = {
 name = "Salt-Upon-Wounds"
 desc = "Salt-Upon-Wounds_DESC"

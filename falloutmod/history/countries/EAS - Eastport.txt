@@ -1,11 +1,11 @@
-﻿oob = "RAM_2277"
+﻿oob = "EAS_2277"
 set_technology = {
 infantry_weapons = 1
 }
 set_politics = {
 parties = {
 people = {
- popularity = 0 
+ popularity = 100 
 }
 elites = {
  popularity = 0 
@@ -14,7 +14,7 @@ intellectuals = {
  popularity = 0 
 }
 ruler = {
- popularity = 100 
+ popularity = 0 
 }
 }
 		ruling_party = ruler
