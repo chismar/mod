@@ -1,0 +1,12 @@
+state={	id=288
+	name="STATE_288"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=MDT}
+	provinces={
+		4433 4434 2351 4402 4401 4400 2430 2500 4415 4404 4403 4432 
+	}
+}

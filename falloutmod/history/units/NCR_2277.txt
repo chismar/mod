@@ -15,16 +15,16 @@
 		infantry = { x = 3 y = 1 }
 	}
 }
-units = {
-
-	division {
-		name = "1. NCR Rangers"
-		location = 2414
-		division_template = "Rangers"
-		start_experience_factor = 1.0
-		start_equipment_factor = 1.0
-	}
-}
+#units = {
+#
+#	division {
+#		name = "1. NCR Rangers"
+#		location = 2414
+#		division_template = "Rangers"
+#		start_experience_factor = 1.0
+#		start_equipment_factor = 1.0
+#	}
+#}
 
 ##### Starting Production #####
 instant_effect = {

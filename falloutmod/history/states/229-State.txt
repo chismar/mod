@@ -1,0 +1,12 @@
+state={	id=229
+	name="STATE_229"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=YAK}
+	provinces={
+		1543 4290 4291 4289 4288 2091 1530 
+	}
+}

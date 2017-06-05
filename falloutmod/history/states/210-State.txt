@@ -1,0 +1,12 @@
+state={	id=210
+	name="STATE_210"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=NBM}
+	provinces={
+		3538 2889 1226 1682 2894 1271 1742 1252 3707 3706 3708 3709 3840 3841 3838 
+	}
+}

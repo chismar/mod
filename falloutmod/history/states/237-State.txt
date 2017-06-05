@@ -1,0 +1,12 @@
+state={	id=237
+	name="STATE_237"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=TCA}
+	provinces={
+		3858 2503 3853 3852 3855 3854 4407 3857 
+	}
+}

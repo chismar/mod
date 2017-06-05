@@ -1,0 +1,12 @@
+state={	id=255
+	name="STATE_255"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=ARR}
+	provinces={
+		1853 1848 2770 4438 2900 
+	}
+}

@@ -1,0 +1,12 @@
+state={	id=238
+	name="STATE_238"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=EHT}
+	provinces={
+		1975 1974 3732 3750 
+	}
+}

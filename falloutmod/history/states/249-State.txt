@@ -1,0 +1,12 @@
+state={	id=249
+	name="STATE_249"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=NCR}
+	provinces={
+		2431 2589 2588 1868 1149 2404 1186 2778 2587 2403 
+	}
+}
