@@ -25,16 +25,16 @@ division_template = {
 		militia = { x = 1 y = 1 }
 	}
 }
-#units = {
-#
-#	division {
-#		name = "1. Legion"
-#		location = 3053
-#		division_template = "Legionnaires"
-#		start_experience_factor = 1.0
-#		start_equipment_factor = 1.0
-#	}
-#}
+units = {
+
+	division {
+		name = "1. Legion"
+		location = 3053
+		division_template = "Legionnaires"
+		start_experience_factor = 1.0
+		start_equipment_factor = 1.0
+	}
+}
 
 ##### Starting Production #####
 instant_effect = {
