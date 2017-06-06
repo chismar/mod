@@ -1,0 +1,12 @@
+state={	id=302
+	name="STATE_303"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=KLA}
+	provinces={
+		1581 1980 2301 3711 2302 3712 2666 3710 
+	}
+}

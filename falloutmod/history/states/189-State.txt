@@ -5,8 +5,8 @@ state={	id=189
 	resources={
 }
 	history={
-		owner=TOC}
+		owner=BVC}
 	provinces={
-		4305 1535 4307 4308 4306 4311 4309 2115 2646 4304 
+		2174 778 2175 783 
 	}
 }

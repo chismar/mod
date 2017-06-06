@@ -5,8 +5,8 @@ state={	id=129
 	resources={
 }
 	history={
-		owner=ANT}
+		owner=HIN}
 	provinces={
-		1287 3614 3655 2352 3615 2763 3723 3720 3721 3722 3803 
+		2203 2202 1493 2201 1484 1494 
 	}
 }

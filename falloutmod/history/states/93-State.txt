@@ -5,8 +5,8 @@ state={	id=93
 	resources={
 }
 	history={
-		owner=CES}
+		owner=TOC}
 	provinces={
-		2022 2029 2023 2020 2021 2160 1787 1706 
+		4154 1567 4153 1564 4155 2055 4156 4572 4571 4164 2057 
 	}
 }

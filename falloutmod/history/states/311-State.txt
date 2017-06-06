@@ -1,0 +1,12 @@
+state={	id=311
+	name="STATE_313"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=COW}
+	provinces={
+		832 3343 825 3344 2728 3346 3345 3313 
+	}
+}

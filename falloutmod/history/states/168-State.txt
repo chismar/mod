@@ -5,8 +5,8 @@ state={	id=168
 	resources={
 }
 	history={
-		owner=RBT}
+		owner=BLP}
 	provinces={
-		1485 4366 4365 4364 4369 4370 2111 
+		2182 2181 2183 747 758 
 	}
 }

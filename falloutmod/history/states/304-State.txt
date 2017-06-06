@@ -1,0 +1,12 @@
+state={	id=304
+	name="STATE_305"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=KLA}
+	provinces={
+		2667 4590 4589 2761 
+	}
+}

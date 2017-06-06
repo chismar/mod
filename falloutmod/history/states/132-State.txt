@@ -5,8 +5,8 @@ state={	id=132
 	resources={
 }
 	history={
-		owner=NCR}
+		owner=HIN}
 	provinces={
-		2399 2401 1886 1887 1660 3507 3509 3508 
+		1433 1845 1405 1844 1843 1455 4465 1430 
 	}
 }

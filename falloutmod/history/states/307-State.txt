@@ -1,0 +1,12 @@
+state={	id=307
+	name="STATE_309"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=BLP}
+	provinces={
+		2180 2179 2178 2177 2176 
+	}
+}
