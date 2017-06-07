@@ -5,8 +5,8 @@ state={	id=142
 	resources={
 }
 	history={
-		owner=TCA}
+		owner=KLA}
 	provinces={
-		4530 2097 4373 4528 4527 4328 1459 2496 3860 2497 
+		2490 4600 4601 4602 4423 2489 
 	}
 }

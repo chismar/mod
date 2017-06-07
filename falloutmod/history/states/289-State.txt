@@ -1,12 +1,12 @@
 state={	id=289
-	name="STATE_290"
+	name="STATE_289"
 	manpower=1000
 	state_category=rural
 	resources={
 }
 	history={
-		owner=UMB}
+		owner=TCA}
 	provinces={
-		1862 1863 2766 1231 
+		3846 2496 3841 3840 3843 3842 4395 3845 4396 
 	}
 }

@@ -5,8 +5,8 @@ state={	id=84
 	resources={
 }
 	history={
-		owner=YKZ}
+}
 	provinces={
-		1589 3622 3559 2830 3827 
+		3409 3412 998 3410 3414 3413 1596 977 
 	}
 }

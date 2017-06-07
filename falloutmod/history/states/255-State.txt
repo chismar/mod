@@ -1,5 +1,5 @@
 state={	id=255
-	name="STATE_256"
+	name="STATE_255"
 	manpower=1000
 	state_category=rural
 	resources={
@@ -7,6 +7,6 @@ state={	id=255
 	history={
 }
 	provinces={
-		3412 3415 998 3413 3417 3416 1597 977 
+		3752 4667 3678 3587 4668 
 	}
 }

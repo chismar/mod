@@ -5,8 +5,8 @@ state={	id=147
 	resources={
 }
 	history={
-		owner=YAK}
+}
 	provinces={
-		4281 4279 479 1539 2092 1510 1522 
+		2452 913 
 	}
 }

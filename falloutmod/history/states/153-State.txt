@@ -5,8 +5,8 @@ state={	id=153
 	resources={
 }
 	history={
-		owner=TCA}
+		owner=COW}
 	provinces={
-		3855 3857 3858 648 654 3853 3859 4374 3850 3854 
+		3337 822 1773 2182 2183 
 	}
 }
