@@ -1,0 +1,12 @@
+state={	id=331
+	name="STATE_333"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=PHA}
+	provinces={
+		4703 4704 4446 4445 4721 4707 4709 1389 4708 4706 1403 4705 4712 4711 2656 4710 4447 
+	}
+}
