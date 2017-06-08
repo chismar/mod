@@ -5,8 +5,8 @@ state={	id=2
 	resources={
 }
 	history={
-		owner=GRA}
+		owner=JAC}
 	provinces={
-		3424 3364 1721 1653 1754 
+		967 2525 2527 2526 2524 2530 2521 
 	}
 }

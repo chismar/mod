@@ -5,8 +5,8 @@ state={	id=190
 	resources={
 }
 	history={
-		owner=VIC}
+		owner=NCR}
 	provinces={
-		2698 3864 2697 1575 3873 3867 3865 2694 4673 4674 4686 4687 
+		2762 2425 1863 
 	}
 }

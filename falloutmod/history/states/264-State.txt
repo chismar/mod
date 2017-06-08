@@ -5,8 +5,8 @@ state={	id=264
 	resources={
 }
 	history={
-		owner=VIP}
+		owner=BVC}
 	provinces={
-		3559 1105 3644 1202 2876 2891 3685 3683 3682 
+		820 2780 835 813 807 2169 796 3510 838 
 	}
 }

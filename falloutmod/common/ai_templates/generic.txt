@@ -44,7 +44,7 @@
 		}
 		
 		regiments = {
-			infantry = 7
+			militia = 7
 			artillery_brigade = 2
 		}
 	}
@@ -58,6 +58,7 @@
 		anti_tank_brigade
 		artillery_brigade
 		explosive_supp
+		militia
 	}
 }
 

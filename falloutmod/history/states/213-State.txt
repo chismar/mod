@@ -5,8 +5,8 @@ state={	id=213
 	resources={
 }
 	history={
-		owner=NCR}
+		owner=CES}
 	provinces={
-		2804 2811 2806 2807 2808 2810 2812 2813 2805 2809 
+		1657 2969 3035 2944 2947 2412 2968 
 	}
 }
