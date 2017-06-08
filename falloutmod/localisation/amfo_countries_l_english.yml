@@ -1091,3 +1091,27 @@
  ZDW_intellectuals:0 "Zuihou"
  ZDW_intellectuals_DEF:0 "Zuihous"
  ZDW_intellectuals_ADJ:0 "Zuihou"
+ PHA_elites:0 Pharohs
+ PHA_elites_DEF:0 Pharohs
+ PHA_elites_ADJ:0 Pharohs
+ PHA_ruler:0 Pharohs
+ PHA_ruler_DEF:0 Pharohs
+ PHA_ruler_ADJ:0 Pharohs
+ PHA_people:0 Pharohs
+ PHA_people_DEF:0 Pharohs
+ PHA_people_ADJ:0 Pharohs
+ PHA_intellectuals:0 Pharohs
+ PHA_intellectuals_DEF:0 Pharohs
+ PHA_intellectuals_ADJ:0 Pharohs
+ VIC_elites:0 New Victoria
+ VIC_elites_DEF:0 New Victorias
+ VIC_elites_ADJ:0 Victoria
+ VIC_ruler:0 New Victoria
+ VIC_ruler_DEF:0 New Victorian
+ VIC_ruler_ADJ:0 Victoria
+ VIC_people:0 New Victoria
+ VIC_people_DEF:0 New Victorias
+ VIC_people_ADJ:0 Victoria
+ VIC_intellectuals:0 New Victoria
+ VIC_intellectuals_DEF:0 New Victorian
+ VIC_intellectuals_ADJ:0 Victoria

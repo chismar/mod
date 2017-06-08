@@ -5,8 +5,8 @@ state={	id=17
 	resources={
 }
 	history={
-		owner=HIN}
+		owner=BOS}
 	provinces={
-		2063 4298 4299 2064 2127 1526 2668 4296 4787 4739 4785 4737 4784 4738 
+		3661 3662 3664 3663 3665 
 	}
 }
