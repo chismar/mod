@@ -1,4 +1,4 @@
-﻿capital = 96
+﻿capital = 255
 oob = "PMR_2277"
 set_technology = {
 infantry_weapons = 1

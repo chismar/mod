@@ -5,8 +5,8 @@ state={	id=106
 	resources={
 }
 	history={
-		owner=ISN}
+		owner=SHO}
 	provinces={
-		4250 4251 3214 2036 1562 4247 
+		4364 3598 3767 2293 1407 4485 4487 4486 
 	}
 }

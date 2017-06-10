@@ -1,12 +1,12 @@
 state={	id=131
 	name="STATE_131"
-	manpower=30000
+	manpower=1000
 	state_category=rural
 	resources={
 }
 	history={
-		owner=ISN}
+		owner=BVC}
 	provinces={
-		4242 1548 2045 4553 4132 4126 4543 2055 2675 4542 4234 
+		820 2774 834 813 807 2164 3499 837 4866 4869 4868 4867 4871 4870 4873 4872 
 	}
 }
