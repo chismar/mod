@@ -5,8 +5,8 @@ state={	id=97
 	resources={
 }
 	history={
-		owner=RBT}
+		owner=VIC}
 	provinces={
-		4107 2096 2098 4332 1468 1461 4345 4523 4432 
+		3851 2688 2076 3852 4659 4661 4660 4674 4673 
 	}
 }

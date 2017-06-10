@@ -5,8 +5,8 @@ state={	id=281
 	resources={
 }
 	history={
-		owner=UMB}
+		owner=ZIP}
 	provinces={
-		1857 1858 2759 1229 5163 5140 5160 5161 5162 
+		3568 3572 3737 
 	}
 }
