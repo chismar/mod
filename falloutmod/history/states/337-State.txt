@@ -1,0 +1,12 @@
+state={	id=337
+	name="STATE_338"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=RAP}
+	provinces={
+		6094 6064 6062 6063 6059 6093 6060 6100 6095 6057 
+	}
+}
