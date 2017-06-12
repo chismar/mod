@@ -3,6 +3,6 @@ supply_area={
 	name="SUPPLYAREA_15"
 	value=10
 	states={
-		249 313 228 181 117 198 
+		155 195 26 255 100 191 115 
 	}
 }
