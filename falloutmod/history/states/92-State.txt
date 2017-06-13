@@ -5,8 +5,8 @@ state={	id=92
 	resources={
 }
 	history={
-		owner=EAS}
+		owner=BOS}
 	provinces={
-		490 3775 3796 3548 3774 3534 3805 3595 
+		3646 3647 3645 3648 3649 
 	}
 }

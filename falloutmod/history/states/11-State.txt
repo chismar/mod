@@ -5,8 +5,8 @@ state={	id=11
 	resources={
 }
 	history={
-		owner=NCR}
+		owner=ZIP}
 	provinces={
-		2503 978 2509 2507 2502 2185 2508 5312 5310 
+		4647 3524 
 	}
 }
