@@ -5,8 +5,8 @@ state={	id=337
 	resources={
 }
 	history={
-		owner=ZIP}
+		owner=BVC}
 	provinces={
-		3665 1578 4655 4656 
+		820 2773 834 813 807 2164 3498 837 4865 4868 4867 4866 4870 4869 4872 4871 
 	}
 }

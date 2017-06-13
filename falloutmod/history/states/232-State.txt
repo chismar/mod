@@ -5,8 +5,8 @@ state={	id=232
 	resources={
 }
 	history={
-		owner=GRA}
+		owner=HAI}
 	provinces={
-		3413 3353 1719 1651 1752 
+		5369 5370 5368 5366 5367 5365 5372 5371 5373 669 
 	}
 }
