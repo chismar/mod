@@ -3,7 +3,7 @@ path="mod/falloutmod/"
 tags={
 	"Alternative History"
 }
-supported_version="1.3.3"
+supported_version="1.4.*"
 replace_path = "map/strategicregions"
 replace_path = "common/ideas"
 replace_path = "common/countries"
