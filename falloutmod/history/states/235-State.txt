@@ -5,8 +5,8 @@ state={	id=235
 	resources={
 }
 	history={
-		owner=VLT}
+		owner=NCR}
 	provinces={
-		3500 1238 3663 3662 
+		1694 1047 3469 1575 1692 1693 1691 3749 3750 5208 2556 1847 2555 5255 
 	}
 }
