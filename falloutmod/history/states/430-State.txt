@@ -1,0 +1,12 @@
+state={	id=430
+	name="STATE_430"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=UMB}
+	provinces={
+		1803 1283 5066 5061 5065 5063 5064 5062 5060 
+	}
+}

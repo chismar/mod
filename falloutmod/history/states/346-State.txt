@@ -1,0 +1,12 @@
+state={	id=346
+	name="STATE_346"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=THO}
+	provinces={
+		3660 4574 3586 3506 4575 
+	}
+}

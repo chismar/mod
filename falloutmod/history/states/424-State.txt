@@ -1,0 +1,12 @@
+state={	id=424
+	name="STATE_424"
+	manpower=30000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=YAK}
+	provinces={
+		4221 1481 4220 2439 1456 4219 1469 2057 4222 2038 4426 4224 4428 
+	}
+}

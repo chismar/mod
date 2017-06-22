@@ -1,0 +1,12 @@
+state={	id=379
+	name="STATE_379"
+	manpower=30000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=KLA}
+	provinces={
+		2432 4508 4509 4510 4331 5187 1282 5207 2433 5186 2431 2694 5220 
+	}
+}

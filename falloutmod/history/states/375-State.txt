@@ -1,0 +1,12 @@
+state={	id=375
+	name="STATE_375"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=NAV}
+	provinces={
+		1574 1835 1622 1834 1582 6777 993 
+	}
+}

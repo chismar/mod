@@ -1,0 +1,12 @@
+state={	id=396
+	name="STATE_396"
+	manpower=30000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=RBT}
+	provinces={
+		4246 2055 4248 4247 2054 4496 2832 4259 4249 
+	}
+}

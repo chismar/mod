@@ -1,0 +1,12 @@
+state={	id=409
+	name="STATE_409"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=EAS}
+	provinces={
+		3680 2810 3682 2811 3681 3683 3696 3536 1238 3679 
+	}
+}

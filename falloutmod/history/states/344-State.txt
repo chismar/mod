@@ -1,0 +1,12 @@
+state={	id=344
+	name="STATE_344"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+}
+	provinces={
+		6561 6560 6562 6563 
+	}
+}

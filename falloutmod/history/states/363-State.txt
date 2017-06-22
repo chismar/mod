@@ -1,0 +1,12 @@
+state={	id=363
+	name="STATE_363"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=WHT}
+	provinces={
+		1201 3199 3198 
+	}
+}

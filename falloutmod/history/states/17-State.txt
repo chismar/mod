@@ -5,8 +5,8 @@ state={	id=17
 	resources={
 }
 	history={
-		owner=MLT}
+		owner=ISN}
 	provinces={
-		1816 2071 4285 4375 4520 4284 4519 
+		1995 1548 3997 3825 3803 2583 3801 3802 1551 3831 
 	}
 }

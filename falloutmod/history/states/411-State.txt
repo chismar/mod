@@ -1,0 +1,12 @@
+state={	id=411
+	name="STATE_411"
+	manpower=30000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=PMR}
+	provinces={
+		4015 4014 2018 4011 4012 2616 4013 4174 4010 4009 2834 1495 4482 
+	}
+}

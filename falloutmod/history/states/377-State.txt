@@ -1,0 +1,12 @@
+state={	id=377
+	name="STATE_377"
+	manpower=30000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=HIN}
+	provinces={
+		2607 1502 2148 4383 293 4384 4393 4385 4386 311 4381 4635 4637 4638 4639 4636 4686 4640 
+	}
+}

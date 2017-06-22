@@ -1,0 +1,12 @@
+state={	id=422
+	name="STATE_422"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=TWO}
+	provinces={
+		2097 3025 2410 1717 872 3271 5346 5347 5348 2106 5349 
+	}
+}

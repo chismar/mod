@@ -5,8 +5,8 @@ state={	id=288
 	resources={
 }
 	history={
-		owner=DAM}
+}
 	provinces={
-		3338 989 3340 3343 6006 6008 
+		1318 1762 1280 1763 6551 1764 
 	}
 }

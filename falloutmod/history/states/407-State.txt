@@ -1,0 +1,12 @@
+state={	id=407
+	name="STATE_407"
+	manpower=30000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=WBH}
+	provinces={
+		4165 4479 2019 4040 4478 2005 4477 2007 4043 4045 4161 4039 4047 4042 4049 4163 4160 4159 4038 4037 
+	}
+}

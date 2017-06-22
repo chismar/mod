@@ -1,0 +1,12 @@
+state={	id=428
+	name="STATE_428"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=VEG}
+	provinces={
+		3290 3294 3293 3292 3291 3296 3298 3297 3295 
+	}
+}

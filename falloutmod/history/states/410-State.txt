@@ -1,0 +1,12 @@
+state={	id=410
+	name="STATE_410"
+	manpower=30000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=BRK}
+	provinces={
+		4547 4549 4544 4546 4548 232 4545 
+	}
+}

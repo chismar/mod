@@ -1,0 +1,12 @@
+state={	id=429
+	name="STATE_429"
+	manpower=30000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=VIC}
+	provinces={
+		4589 4590 4587 633 4588 
+	}
+}

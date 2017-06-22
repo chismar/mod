@@ -1,0 +1,12 @@
+state={	id=387
+	name="STATE_387"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=BVC}
+	provinces={
+		2118 774 2119 779 4816 4810 4811 4814 4813 4817 4815 4812 4796 4798 4797 792 4795 4800 4799 4801 4802 4807 4808 4804 4806 4805 4803 4850 4809 
+	}
+}

@@ -1,0 +1,12 @@
+state={	id=426
+	name="STATE_426"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=BOS}
+	provinces={
+		2503 1047 2504 2498 4881 3219 4985 4757 4984 4988 4987 
+	}
+}
