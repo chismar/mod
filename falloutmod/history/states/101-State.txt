@@ -5,8 +5,8 @@ state={	id=101
 	resources={
 }
 	history={
-		owner=BDT}
+		owner=CYC}
 	provinces={
-		3751 2438 3746 3745 3748 3747 4300 3750 4301 
+		3436 
 	}
 }

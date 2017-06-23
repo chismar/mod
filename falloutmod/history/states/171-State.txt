@@ -5,8 +5,8 @@ state={	id=171
 	resources={
 }
 	history={
-		owner=CES}
+		owner=SKY}
 	provinces={
-		1578 939 1731 1730 1569 1568 1732 1567 1729 
+		3579 1557 4568 4569 3453 
 	}
 }

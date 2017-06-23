@@ -5,8 +5,8 @@ state={	id=182
 	resources={
 }
 	history={
-		owner=KHA}
+		owner=CES}
 	provinces={
-		3362 3355 3356 3360 3357 3361 3358 
+		894 2890 3038 5583 5580 5582 5581 5708 5707 5706 6798 6797 
 	}
 }
