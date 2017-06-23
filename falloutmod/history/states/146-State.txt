@@ -5,8 +5,8 @@ state={	id=146
 	resources={
 }
 	history={
-		owner=WBH}
+		owner=BDT}
 	provinces={
-		2061 1982 1987 1984 1983 1985 1980 3824 
+		3757 3759 3760 646 652 3755 3761 4276 3752 3756 
 	}
 }
