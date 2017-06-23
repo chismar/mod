@@ -5,8 +5,8 @@ state={	id=351
 	resources={
 }
 	history={
-		owner=ARR}
+		owner=MDT}
 	provinces={
-		1801 2818 2819 2821 1799 2822 2820 
+		4316 4317 4318 4315 4490 4232 4230 4231 1417 
 	}
 }

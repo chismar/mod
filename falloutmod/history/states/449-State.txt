@@ -5,8 +5,8 @@ state={	id=449
 	resources={
 }
 	history={
-		owner=RAP}
+		owner=CLI}
 	provinces={
-		5991 6004 5990 6002 5981 5982 5989 6003 5988 
+		6615 6614 6616 
 	}
 }

@@ -5,8 +5,8 @@ state={	id=413
 	resources={
 }
 	history={
-		owner=SKY}
+		owner=LON}
 	provinces={
-		3499 3503 3657 6810 6811 
+		1760 1761 1767 1770 1769 1271 1754 
 	}
 }

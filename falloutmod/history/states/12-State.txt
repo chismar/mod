@@ -5,8 +5,8 @@ state={	id=12
 	resources={
 }
 	history={
-		owner=EHT}
+		owner=SOR}
 	provinces={
-		6744 1232 1262 1278 
+		6640 6641 6734 6638 6639 
 	}
 }

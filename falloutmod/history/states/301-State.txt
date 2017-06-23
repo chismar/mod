@@ -5,8 +5,8 @@ state={	id=301
 	resources={
 }
 	history={
-		owner=NEW}
+		owner=NAM}
 	provinces={
-		2779 2785 2799 2780 2784 2782 3737 3736 3738 
+		6505 
 	}
 }

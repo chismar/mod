@@ -5,8 +5,8 @@ state={	id=452
 	resources={
 }
 	history={
-		owner=SCP}
+		owner=HGH}
 	provinces={
-		2390 2388 1646 2389 2139 2475 
+		6727 6726 6728 1027 
 	}
 }
