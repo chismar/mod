@@ -5,8 +5,8 @@ state={	id=396
 	resources={
 }
 	history={
-		owner=BOS}
+		owner=SCP}
 	provinces={
-		3423 1828 5106 3575 5105 976 5104 
+		2472 6142 6141 6140 6138 6137 
 	}
 }

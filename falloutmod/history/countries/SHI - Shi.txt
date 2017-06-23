@@ -1,4 +1,4 @@
-﻿capital = 341
+﻿capital = 270
 oob = "SHI_2277"
 set_technology = {
 infantry_weapons = 1

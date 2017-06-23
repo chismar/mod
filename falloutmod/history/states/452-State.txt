@@ -1,0 +1,12 @@
+state={	id=452
+	name="STATE_452"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=SCP}
+	provinces={
+		2390 2388 1646 2389 2139 2475 
+	}
+}

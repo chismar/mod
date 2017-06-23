@@ -5,8 +5,8 @@ state={	id=108
 	resources={
 }
 	history={
-		owner=EHT}
+		owner=SKY}
 	provinces={
-		6512 6511 6746 6745 
+		3658 4572 3584 3504 4573 6808 
 	}
 }

@@ -5,8 +5,8 @@ state={	id=121
 	resources={
 }
 	history={
-		owner=LON}
+		owner=YMP}
 	provinces={
-		4668 4669 1589 1587 2677 
+		3195 3196 2275 1783 1785 6788 
 	}
 }
