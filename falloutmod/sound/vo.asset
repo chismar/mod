@@ -421,11 +421,6 @@ file = "ncr/nc_Positive_007.wav"
 }
 sound =
 {
-name = "nc_Positive_007"
-file = "ncr/nc_Positive_007.wav"
-}
-sound =
-{
 name = "nc_Positive_008"
 file = "ncr/nc_Positive_008.wav"
 }
