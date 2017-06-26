@@ -1,4 +1,4 @@
-﻿wargoal_types = {
+wargoal_types = {
 
 	take_state = {
 		# PREV = original target country
