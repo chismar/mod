@@ -5,8 +5,8 @@ state={	id=195
 	resources={
 }
 	history={
-		owner=PAL}
+		owner=IRE}
 	provinces={
-		1681 3477 3445 3444 2775 1750 3633 3632 3637 3664 
+		1784 2672 4654 1785 
 	}
 }

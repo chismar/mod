@@ -1,4 +1,4 @@
-﻿capital = 164
+﻿capital = 302
 oob = "CES_2277"
 set_technology = {
 infantry_weapons = 1

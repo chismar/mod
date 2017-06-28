@@ -1,12 +1,12 @@
 state={	id=171
 	name="STATE_171"
-	manpower=1000
+	manpower=30000
 	state_category=rural
 	resources={
 }
 	history={
-		owner=SKY}
+		owner=PHA}
 	provinces={
-		3579 1557 4568 4569 3453 
+		4491 4204 4492 2593 4338 4489 1443 1448 4490 2234 4205 4618 4593 4592 4202 4340 4339 
 	}
 }

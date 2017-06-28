@@ -5,8 +5,8 @@ state={	id=208
 	resources={
 }
 	history={
-		owner=TRL}
+		owner=VIC}
 	provinces={
-		2229 4426 2050 4425 
+		3766 2631 3764 2630 3150 3768 3767 4586 4587 4585 
 	}
 }

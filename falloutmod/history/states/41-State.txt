@@ -5,8 +5,8 @@ state={	id=41
 	resources={
 }
 	history={
-		owner=IRE}
+		owner=UMB}
 	provinces={
-		4701 2254 1788 1787 4702 
+		1806 1807 2695 1213 5061 5038 5058 5059 5060 
 	}
 }
