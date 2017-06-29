@@ -1,12 +1,12 @@
 state={	id=281
 	name="STATE_281"
-	manpower=1000
+	manpower=30000
 	state_category=rural
 	resources={
 }
 	history={
-		owner=BOS}
+		owner=WBH}
 	provinces={
-		1065 2699 2492 1060 4745 4868 
+		1542 
 	}
 }

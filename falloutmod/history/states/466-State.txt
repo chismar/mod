@@ -1,0 +1,12 @@
+state={	id=466
+	name="STATE_466"
+	manpower=30000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=BDT}
+	provinces={
+		4189 1432 2408 3721 2409 
+	}
+}

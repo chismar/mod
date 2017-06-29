@@ -5,8 +5,8 @@ state={	id=354
 	resources={
 }
 	history={
-		owner=YMP}
+		owner=MRA}
 	provinces={
-		1772 1773 645 
+		3341 3342 3344 3343 3304 3305 
 	}
 }

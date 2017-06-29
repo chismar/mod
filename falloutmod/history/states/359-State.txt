@@ -5,8 +5,8 @@ state={	id=359
 	resources={
 }
 	history={
-		owner=CES}
+		owner=TUR}
 	provinces={
-		1968 1973 1967 1712 1977 1976 
+		6534 6720 6543 6474 6533 6532 
 	}
 }

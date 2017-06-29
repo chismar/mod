@@ -5,8 +5,8 @@ state={	id=187
 	resources={
 }
 	history={
-		owner=UMB}
+		owner=SKY}
 	provinces={
-		1801 1281 5052 5047 5051 5049 5050 5048 5046 
+		4532 3422 6738 
 	}
 }

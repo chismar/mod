@@ -7,6 +7,6 @@ state={	id=90
 	history={
 		owner=SKY}
 	provinces={
-		3488 3492 3646 6795 6796 
+		3619 4533 3545 3465 4534 6737 
 	}
 }
