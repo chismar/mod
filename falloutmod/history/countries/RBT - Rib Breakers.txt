@@ -1,4 +1,4 @@
-﻿capital = 289
+﻿capital = 222
 oob = "RBT_2277"
 set_technology = {
 infantry_weapons = 1

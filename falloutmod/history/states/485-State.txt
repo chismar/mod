@@ -1,0 +1,12 @@
+state={	id=485
+	name="STATE_487"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=SHI}
+	provinces={
+		5134 2338 5137 5136 5135 
+	}
+}

@@ -5,8 +5,8 @@ state={	id=2
 	resources={
 }
 	history={
-		owner=HGH}
+		owner=UMB}
 	provinces={
-		1035 6513 6510 6471 6515 6517 
+		1791 1792 2660 1206 5020 4997 5017 5018 5019 
 	}
 }

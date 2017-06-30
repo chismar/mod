@@ -1,0 +1,12 @@
+state={	id=514
+	name="STATE_516"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=SHO}
+	provinces={
+		1294 2216 4360 4359 4358 
+	}
+}

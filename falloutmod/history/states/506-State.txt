@@ -1,0 +1,12 @@
+state={	id=506
+	name="STATE_508"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=ZDW}
+	provinces={
+		2227 3207 2679 
+	}
+}

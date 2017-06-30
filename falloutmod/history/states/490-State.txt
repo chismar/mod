@@ -1,0 +1,12 @@
+state={	id=490
+	name="STATE_492"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=TAR}
+	provinces={
+		1582 6551 6614 6454 
+	}
+}

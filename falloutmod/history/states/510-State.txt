@@ -1,0 +1,12 @@
+state={	id=510
+	name="STATE_512"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=TLO}
+	provinces={
+		2234 3196 7108 7109 
+	}
+}

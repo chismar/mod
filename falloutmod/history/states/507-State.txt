@@ -1,0 +1,12 @@
+state={	id=507
+	name="STATE_509"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=GDH}
+	provinces={
+		3182 2228 2109 
+	}
+}
