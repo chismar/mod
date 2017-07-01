@@ -1,0 +1,12 @@
+state={	id=541
+	name="STATE_542"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=ISN}
+	provinces={
+		1535 3995 3996 7507 1969 7508 3772 3931 3935 1992 3936 
+	}
+}

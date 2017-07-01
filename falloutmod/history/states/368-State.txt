@@ -5,8 +5,8 @@ state={	id=368
 	resources={
 }
 	history={
-		owner=YMP}
+		owner=SKY}
 	provinces={
-		701 6950 6949 6947 1767 1765 6943 6772 
+		4513 3404 6698 
 	}
 }

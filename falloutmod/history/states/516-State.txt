@@ -5,8 +5,8 @@ state={	id=516
 	resources={
 }
 	history={
-		owner=SKY}
+		owner=NCN}
 	provinces={
-		3527 1548 4516 4517 3402 
+		6413 6416 6414 6415 6417 
 	}
 }

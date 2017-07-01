@@ -1,12 +1,12 @@
 state={	id=472
 	name="STATE_472"
-	manpower=30000
+	manpower=1000
 	state_category=rural
 	resources={
 }
 	history={
-		owner=TCA}
+		owner=NBM}
 	provinces={
-		1983 4401 4118 1501 1486 4400 4212 4381 4399 5864 5863 
+		2760 1620 3417 3431 2759 1679 2716 2723 3547 3564 3675 
 	}
 }

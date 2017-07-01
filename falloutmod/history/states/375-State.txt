@@ -5,8 +5,8 @@ state={	id=375
 	resources={
 }
 	history={
-		owner=KLA}
+		owner=RAP}
 	provinces={
-		1547 1893 2211 3554 2212 3555 2559 3553 5147 5148 5164 5162 5163 2648 
+		2356 904 
 	}
 }

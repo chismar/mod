@@ -5,8 +5,8 @@ state={	id=217
 	resources={
 }
 	history={
-		owner=NEW}
+		owner=MUR}
 	provinces={
-		2741 2744 2752 2764 2745 3486 2721 
+		1294 4356 4355 4357 2215 4358 
 	}
 }

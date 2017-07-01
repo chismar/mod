@@ -5,8 +5,8 @@ state={	id=417
 	resources={
 }
 	history={
-		owner=PMR}
+		owner=NCN}
 	provinces={
-		7221 7222 7196 3950 3949 7223 
+		1308 1746 1270 1747 6448 1748 7569 
 	}
 }

@@ -5,8 +5,8 @@ state={	id=253
 	resources={
 }
 	history={
-		owner=GDH}
+		owner=HAM}
 	provinces={
-		3177 2226 2107 
+		1888 1887 3569 3587 1249 2735 
 	}
 }

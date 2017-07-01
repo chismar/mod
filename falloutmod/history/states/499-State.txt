@@ -5,8 +5,8 @@ state={	id=499
 	resources={
 }
 	history={
-		owner=FRI}
+		owner=TUR}
 	provinces={
-		6518 3469 3470 6519 
+		6501 6500 6498 6499 
 	}
 }

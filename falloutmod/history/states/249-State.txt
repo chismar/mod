@@ -5,8 +5,8 @@ state={	id=249
 	resources={
 }
 	history={
-		owner=ZDW}
+		owner=NCR}
 	provinces={
-		792 3192 
+		5889 5886 5885 5879 896 5057 899 5056 5055 891 2708 
 	}
 }
