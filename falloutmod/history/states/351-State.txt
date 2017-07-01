@@ -1,12 +1,12 @@
 state={	id=351
-	name="STATE_351"
-	manpower=1000
+	name="STATE_352"
+	manpower=30000
 	state_category=rural
 	resources={
 }
 	history={
-		owner=PMR}
+		owner=TCA}
 	provinces={
-		7204 4107 3948 7216 7203 7218 7219 7208 7206 7215 1974 
+		1980 4398 4115 1498 4378 5861 5860 4116 7617 7616 7614 7620 7615 7621 7618 7619 7631 
 	}
 }

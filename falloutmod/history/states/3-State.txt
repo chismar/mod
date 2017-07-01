@@ -1,12 +1,12 @@
 state={	id=3
 	name="STATE_3"
-	manpower=30000
+	manpower=1000
 	state_category=rural
 	resources={
 }
 	history={
-		owner=TRL}
+		owner=BVC}
 	provinces={
-		2020 2021 4375 4190 2198 
+		2082 767 2083 772 4753 4747 4748 4751 4750 4754 4752 4749 4733 4735 4734 785 4732 4737 4736 4738 4739 4744 4745 4741 4743 4742 4740 4787 4746 
 	}
 }

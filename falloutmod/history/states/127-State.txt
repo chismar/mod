@@ -1,12 +1,12 @@
 state={	id=127
 	name="STATE_127"
-	manpower=1000
+	manpower=30000
 	state_category=rural
 	resources={
 }
 	history={
-		owner=CES}
+		owner=KLA}
 	provinces={
-		1874 3187 5766 5785 1024 1003 1841 5378 5377 3086 5765 5764 5763 7146 2912 2913 985 5376 5374 2911 5375 
+		2388 4445 4446 4447 4268 5123 1269 5143 2389 5122 2387 2649 5156 7257 7256 7255 
 	}
 }

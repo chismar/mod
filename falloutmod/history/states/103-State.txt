@@ -5,8 +5,8 @@ state={	id=103
 	resources={
 }
 	history={
-		owner=TOC}
+		owner=MRA}
 	provinces={
-		4079 2123 4082 4083 4080 4024 4081 685 7512 
+		3278 3291 3294 
 	}
 }

@@ -5,8 +5,8 @@ state={	id=6
 	resources={
 }
 	history={
-		owner=SCP}
+		owner=TOC}
 	provinces={
-		6036 6034 6043 6035 6033 6032 
+		4076 2120 4079 4080 4077 2121 4018 4017 4013 2000 4014 
 	}
 }

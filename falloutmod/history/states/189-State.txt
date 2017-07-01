@@ -5,8 +5,8 @@ state={	id=189
 	resources={
 }
 	history={
-		owner=BRK}
+		owner=SCO}
 	provinces={
-		4064 4543 260 3804 3805 3807 3806 3837 
+		1881 1066 1859 1074 1867 1858 3089 6747 
 	}
 }

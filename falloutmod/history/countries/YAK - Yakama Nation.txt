@@ -1,4 +1,4 @@
-﻿capital = 22
+﻿capital = 135
 oob = "YAK_2277"
 set_technology = {
 infantry_weapons = 1
