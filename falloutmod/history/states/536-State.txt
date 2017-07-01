@@ -1,0 +1,12 @@
+state={	id=536
+	name="STATE_536"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=DES}
+	provinces={
+		3403 
+	}
+}

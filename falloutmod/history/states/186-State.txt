@@ -5,8 +5,8 @@ state={	id=186
 	resources={
 }
 	history={
-		owner=TWI}
+		owner=RAP}
 	provinces={
-		1647 987 3277 5275 
+		5912 5882 5880 5881 5911 5917 
 	}
 }

@@ -1,0 +1,12 @@
+state={	id=535
+	name="STATE_535"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=FRI}
+	provinces={
+		1549 3494 1550 6476 
+	}
+}

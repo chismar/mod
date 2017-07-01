@@ -1,0 +1,12 @@
+state={	id=538
+	name="STATE_538"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=COW}
+	provinces={
+		836 1705 1706 1704 2946 3230 2945 5407 5476 5475 5408 5425 5427 5480 5426 5481 5428 5482 5483 5406 2947 2948 5487 2950 5485 
+	}
+}

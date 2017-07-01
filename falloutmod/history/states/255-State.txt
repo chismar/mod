@@ -5,8 +5,8 @@ state={	id=255
 	resources={
 }
 	history={
-		owner=NBM}
+		owner=TLO}
 	provinces={
-		2762 1621 3419 3433 2761 1680 2718 2725 3550 3567 3678 
+		783 2233 777 
 	}
 }

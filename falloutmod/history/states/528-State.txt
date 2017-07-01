@@ -1,0 +1,12 @@
+state={	id=528
+	name="STATE_528"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=VLT}
+	provinces={
+		3393 1217 3542 3541 
+	}
+}

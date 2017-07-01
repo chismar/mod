@@ -5,8 +5,8 @@ state={	id=12
 	resources={
 }
 	history={
-		owner=IRE}
+		owner=CES}
 	provinces={
-		4652 2223 1772 1771 4653 
+		1822 1045 5381 5672 1821 5671 313 5834 5835 6896 2286 6894 6895 2285 
 	}
 }

@@ -5,8 +5,8 @@ state={	id=256
 	resources={
 }
 	history={
-		owner=ARR}
+		owner=BEL}
 	provinces={
-		1315 4275 1293 4276 1783 5093 2207 5092 5094 
+		3727 1995 3757 3758 3753 1544 7332 
 	}
 }

@@ -1,0 +1,12 @@
+state={	id=539
+	name="STATE_539"
+	manpower=30000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=BEL}
+	provinces={
+		4046 4047 4074 4075 2169 3900 4465 4048 456 4051 4050 4466 2167 4049 7542 
+	}
+}

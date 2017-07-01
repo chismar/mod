@@ -1,0 +1,12 @@
+state={	id=523
+	name="STATE_523"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=NBM}
+	provinces={
+		2760 1620 3417 3431 2759 1679 2716 2723 3547 3564 3675 
+	}
+}

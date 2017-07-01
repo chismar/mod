@@ -1,0 +1,12 @@
+state={	id=537
+	name="STATE_537"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=YMP}
+	provinces={
+		3144 3145 2242 7083 2632 
+	}
+}

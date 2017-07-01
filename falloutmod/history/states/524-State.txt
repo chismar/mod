@@ -1,0 +1,12 @@
+state={	id=524
+	name="STATE_524"
+	manpower=30000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=ARR}
+	provinces={
+		1314 4272 1292 1782 5090 2206 5089 5091 7276 7277 7275 7274 
+	}
+}
