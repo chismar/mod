@@ -5,8 +5,8 @@ state={	id=393
 	resources={
 }
 	history={
-		owner=FRI}
+		owner=SHI}
 	provinces={
-		1015 1019 3309 2693 1022 6487 
+		2461 1042 1051 2462 1054 5135 5136 
 	}
 }

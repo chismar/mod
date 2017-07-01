@@ -1,12 +1,12 @@
 state={	id=95
-	name="STATE_96"
+	name="STATE_95"
 	manpower=1000
 	state_category=rural
 	resources={
 }
 	history={
-		owner=SCO}
+		owner=CES}
 	provinces={
-		1886 1070 1864 1078 1872 1863 3097 6764 
+		924 1903 2959 2958 904 1905 1906 1711 1904 3225 3224 3226 5267 5266 5265 5268 5754 5748 
 	}
 }
