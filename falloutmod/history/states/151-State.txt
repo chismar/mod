@@ -5,8 +5,8 @@ state={	id=151
 	resources={
 }
 	history={
-		owner=NCR}
+		owner=HAI}
 	provinces={
-		2467 2466 2465 2463 2461 2464 2462 1025 3371 
+		5206 5207 5209 5208 5210 5211 
 	}
 }

@@ -5,8 +5,8 @@ state={	id=100
 	resources={
 }
 	history={
-		owner=SCO}
+		owner=SOR}
 	provinces={
-		1880 1066 1858 1074 1866 1857 3087 6745 
+		1690 2684 6684 
 	}
 }

@@ -1,12 +1,12 @@
 state={	id=507
 	name="STATE_507"
-	manpower=1000
+	manpower=30000
 	state_category=rural
 	resources={
 }
 	history={
-		owner=CES}
+		owner=VIC}
 	provinces={
-		2060 2974 2367 1697 865 3212 5278 5279 5280 2069 5281 2070 
+		3708 2585 1993 3709 4515 4517 4516 4530 4529 
 	}
 }
