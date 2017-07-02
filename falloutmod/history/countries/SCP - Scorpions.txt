@@ -1,4 +1,4 @@
-﻿oob = "SCP_2277"
+﻿oob = "SCP_2265"
 set_technology = {
 infantry_weapons = 1
 }

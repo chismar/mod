@@ -1,4 +1,4 @@
-﻿oob = "KHA_2277"
+﻿oob = "KHA_2265"
 set_technology = {
 infantry_weapons = 1
 }

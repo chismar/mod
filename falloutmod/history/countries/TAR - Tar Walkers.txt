@@ -1,4 +1,4 @@
-﻿oob = "TAR_2277"
+﻿oob = "TAR_2265"
 set_technology = {
 }
 set_politics = {

@@ -1,5 +1,5 @@
 ﻿capital = 414
-oob = "IRE_2277"
+oob = "IRE_2265"
 set_technology = {
 infantry_weapons = 1
 infantry_weapons = 1
@@ -18,32 +18,11 @@ intellectuals = {
 ruler = {
  popularity = 100 
 }
-people = {
- popularity = 0 
-}
-elites = {
- popularity = 0 
-}
-intellectuals = {
- popularity = 0 
-}
-ruler = {
- popularity = 100 
-}
 }
 		ruling_party = ruler
 		elections_allowed = yes
 }
 add_ideas = {
-}
-create_country_leader  = {
-name = "Eddie"
-desc = "Eddie_DESC"
-picture = "Portrait_Eddie.dds"
-expire = "3000.1.1"
-ideology =militarist_oligarchy
-traits = {
-}
 }
 
 create_country_leader  = {

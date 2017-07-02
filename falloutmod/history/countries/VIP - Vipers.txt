@@ -1,4 +1,4 @@
-﻿oob = "VIP_2277"
+﻿oob = "VIP_2265"
 set_technology = {
 infantry_weapons = 1
 }

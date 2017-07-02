@@ -1,5 +1,5 @@
 ﻿capital = 264
-oob = "MLT_2277"
+oob = "MLT_2265"
 set_technology = {
 infantry_weapons = 1
 }

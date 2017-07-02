@@ -1,4 +1,4 @@
-﻿oob = "TON_2277"
+﻿oob = "TON_2265"
 set_technology = {
 infantry_weapons = 1
 }
