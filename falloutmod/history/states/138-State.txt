@@ -5,8 +5,8 @@ state={	id=138
 	resources={
 }
 	history={
-		owner=VIC}
+		owner=TRL}
 	provinces={
-		3716 2590 3714 2589 3103 3718 3717 4536 4537 4535 7496 
+		2016 2017 4370 4185 2194 
 	}
 }

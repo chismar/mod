@@ -1,12 +1,12 @@
 state={	id=261
-	name="STATE_262"
+	name="STATE_261"
 	manpower=1000
 	state_category=rural
 	resources={
 }
 	history={
-		owner=IRE}
+		owner=EAS}
 	provinces={
-		1340 2218 2217 1301 
+		3405 3456 3626 3627 3661 3660 6709 
 	}
 }

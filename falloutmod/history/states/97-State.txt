@@ -5,8 +5,8 @@ state={	id=97
 	resources={
 }
 	history={
-		owner=PEC}
+		owner=TTM}
 	provinces={
-		5750 812 3013 5751 3166 3165 3167 3182 3014 2622 7117 7118 
+		1838 2911 3086 3085 
 	}
 }
