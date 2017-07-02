@@ -30,8 +30,8 @@ ideologies = {
 			can_send_volunteers = yes
 			can_puppet = yes
 			can_lower_tension = yes
-			can_only_justify_war_on_threat_country = yes
-			can_guarantee_other_ideologies = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
 		}
 		
 		war_impact_on_world_tension = -1.0
@@ -39,7 +39,7 @@ ideologies = {
 		
 		modifiers = {
 			generate_wargoal_tension = 0.00
-			join_faction_tension = 0.80
+			join_faction_tension = -1.00
 			lend_lease_tension = 0.50
 			send_volunteers_tension = 0.25
 			guarantee_tension = 0.25
@@ -74,7 +74,7 @@ ideologies = {
 		
 		color = { 255 0 0 }
 		
-		war_impact_on_world_tension = 0.75		#Commie less threatening
+		war_impact_on_world_tension = 0.15		#Commie less threatening
 		faction_impact_on_world_tension = 0.5
 		
 		ai_communist = yes # uses the commie AI behaviour
@@ -119,7 +119,7 @@ ideologies = {
 		
 		color = { 150 75 0 }
 		
-		war_impact_on_world_tension = 1.0			#evil!
+		war_impact_on_world_tension = 0.15			#evil!
 		faction_impact_on_world_tension = 1.0
 		
 		rules = {
@@ -159,7 +159,7 @@ ideologies = {
 		color = { 124 124 124 }
 		
 		
-		war_impact_on_world_tension = 0.15		#no major danger
+		war_impact_on_world_tension = 0.01		#no major danger
 		faction_impact_on_world_tension = 0.1
 		
 		rules = {
@@ -171,7 +171,7 @@ ideologies = {
 		modifiers = {
 			#increased_influence_factor = 0.3 #30% easier to influence
 			generate_wargoal_tension = 0.00
-			join_faction_tension = 0.6
+			join_faction_tension = -1.00
 			lend_lease_tension = 0.3
 			send_volunteers_tension = 0.4
 			guarantee_tension = 0.4
