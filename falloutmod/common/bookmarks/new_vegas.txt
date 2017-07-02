@@ -11,10 +11,31 @@ bookmarks = {
 			history = "NCR_NEW_VEGAS_DESC"
 			ideology = people
 		}
-		#"CES"={
-		#	history = "CES_NEW_VEGAS_DESC"
-		#	ideology = feudalism
-		#}
+		"CES"={
+			history = "CES_NEW_VEGAS_DESC"
+			ideology = feudalism
+		}
+		"BOS"={
+			history = "BOS_NEW_VEGAS_DESC"
+			ideology = intellectuals
+		}
+		"VEG"={
+			history = "VEG_NEW_VEGAS_DESC"
+			ideology = ruler
+		}
+		"MOJ"={
+			history = "NCN_NEW_VEGAS_DESC"
+			ideology = intellectuals
+		}
+		"EHT"={
+			history = "EHT_NEW_VEGAS_DESC"
+			ideology = ruler
+		}
+		"NCN"={
+			history = "NCN_NEW_VEGAS_DESC"
+			ideology = people
+		}
+
 		
 		"---"={
 			history = "OTHER_NEW_VEGAS_DESC"
