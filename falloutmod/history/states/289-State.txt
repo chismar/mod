@@ -5,8 +5,8 @@ state={	id=289
 	resources={
 }
 	history={
-		owner=HAN}
+		owner=TLO}
 	provinces={
-		6994 6986 6988 6985 6990 7041 1826 
+		780 2228 774 7657 7693 7694 7656 7655 
 	}
 }

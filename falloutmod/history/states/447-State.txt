@@ -5,8 +5,8 @@ state={	id=447
 	resources={
 }
 	history={
-		owner=DAM}
+		owner=TLO}
 	provinces={
-		3241 3278 3258 
+		7652 7086 7877 7876 2227 7896 7879 7878 7653 7654 
 	}
 }
