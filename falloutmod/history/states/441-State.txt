@@ -5,8 +5,8 @@ state={	id=441
 	resources={
 }
 	history={
-		owner=MOJ}
+		owner=SKY}
 	provinces={
-		6714 7112 
+		3594 4508 3520 3441 4509 6690 
 	}
 }

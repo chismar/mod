@@ -5,8 +5,8 @@ state={	id=72
 	resources={
 }
 	history={
-		owner=NAV}
+		owner=CLI}
 	provinces={
-		6820 6821 6823 6822 6824 6825 6723 6722 6720 
+		6509 6508 6510 
 	}
 }

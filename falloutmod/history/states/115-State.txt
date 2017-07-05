@@ -5,8 +5,8 @@ state={	id=115
 	resources={
 }
 	history={
-		owner=HIN}
+		owner=TWI}
 	provinces={
-		4575 2395 7318 7316 1495 7317 4576 2244 7299 4577 4328 
+		3259 3263 3266 981 3264 977 974 
 	}
 }

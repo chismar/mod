@@ -5,8 +5,8 @@ state={	id=341
 	resources={
 }
 	history={
-		owner=IRN}
+		owner=HAI}
 	provinces={
-		1830 1827 6781 
+		5217 5216 5215 5214 5213 5212 5211 
 	}
 }

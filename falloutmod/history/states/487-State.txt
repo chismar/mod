@@ -5,8 +5,8 @@ state={	id=487
 	resources={
 }
 	history={
-		owner=BEL}
+		owner=VIC}
 	provinces={
-		3745 3726 3760 3761 427 3725 
+		2590 3709 2589 1541 3718 3712 3710 2586 4517 4518 4530 4531 7494 
 	}
 }
