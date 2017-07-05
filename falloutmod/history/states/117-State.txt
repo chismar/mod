@@ -5,8 +5,8 @@ state={	id=117
 	resources={
 }
 	history={
-		owner=PMR}
+		owner=NBM}
 	provinces={
-		7204 1501 7203 4101 7223 7224 4100 
+		2755 1616 3411 3425 2754 1675 2711 2718 3541 3558 3669 
 	}
 }

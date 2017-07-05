@@ -5,8 +5,8 @@ state={	id=135
 	resources={
 }
 	history={
-		owner=CLI}
+		owner=PMR}
 	provinces={
-		6508 6507 6504 6506 6505 
+		7200 7204 7191 3946 7205 2570 7206 7190 7207 7188 3945 
 	}
 }

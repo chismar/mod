@@ -1,0 +1,12 @@
+state={	id=552
+	name="STATE_552"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=LGS}
+	provinces={
+		7760 7848 7823 7757 7923 7824 7822 7926 7828 7827 7860 7829 7845 
+	}
+}

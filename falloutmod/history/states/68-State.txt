@@ -7,6 +7,6 @@ state={	id=68
 	history={
 		owner=HGH}
 	provinces={
-		1627 1628 6448 6449 6447 
+		1029 6468 6465 6426 6470 6472 
 	}
 }

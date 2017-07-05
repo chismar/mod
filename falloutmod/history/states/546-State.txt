@@ -1,0 +1,12 @@
+state={	id=546
+	name="STATE_546"
+	manpower=30000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=MLT}
+	provinces={
+		2014 4186 4276 4421 4185 4420 7244 7246 7243 7242 7245 
+	}
+}

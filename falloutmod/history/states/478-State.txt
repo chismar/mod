@@ -5,8 +5,8 @@ state={	id=478
 	resources={
 }
 	history={
-		owner=TLO}
+		owner=TOB}
 	provinces={
-		780 2228 774 
+		1188 3142 3145 3144 7573 7575 7574 7587 7585 7584 
 	}
 }

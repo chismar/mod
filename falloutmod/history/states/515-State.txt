@@ -5,8 +5,8 @@ state={	id=515
 	resources={
 }
 	history={
-		owner=IRN}
+		owner=KHA}
 	provinces={
-		1830 1827 6782 
+		3301 3294 3295 3299 3296 3300 3297 
 	}
 }
