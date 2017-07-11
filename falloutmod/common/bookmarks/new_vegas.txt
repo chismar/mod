@@ -13,7 +13,7 @@ bookmarks = {
 		}
 		"CES"={
 			history = "CES_NEW_VEGAS_DESC"
-			ideology = feudalism
+			ideology = ruler
 		}
 		"BOS"={
 			history = "BOS_NEW_VEGAS_DESC"
@@ -34,6 +34,10 @@ bookmarks = {
 		"NCN"={
 			history = "NCN_NEW_VEGAS_DESC"
 			ideology = people
+		}
+		"DES"={
+			history = "DES_NEW_VEGAS_DESC"
+			ideology = ruler
 		}
 
 		
