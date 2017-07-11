@@ -5,8 +5,8 @@ state={	id=101
 	resources={
 }
 	history={
-		owner=DES}
+		owner=TWI}
 	provinces={
-		3415 3482 3481 1547 3596 3595 3483 
+		3255 3259 3262 980 3260 976 973 
 	}
 }
