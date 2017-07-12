@@ -32,4 +32,10 @@ ideology =militarist_oligarchy
 traits = {
 }
 }
-
+create_corps_commander = {
+name = "Steve Bernau"
+portrait_path = "gfx/leaders/Raider/Portrait_Raider_Generic_1.dds"
+skill =3
+traits = {
+}
+}

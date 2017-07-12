@@ -1,4 +1,4 @@
-default = {
+﻿default = {
 	#navy = {
 		#male = {
 		#}
@@ -19,4 +19,110 @@ default = {
 	female = {
 		"gfx/leaders/leader_unknown.dds"
 	}
+}
+continent = {
+	name = europe
+	army = {
+		male = {
+			"gfx/leaders/Settler/Portrait_Settler_Generic_1.dds"
+			"gfx/leaders/Settler/Portrait_Settler_Generic_2.dds"
+			"gfx/leaders/Settler/Portrait_Settler_Generic_3.dds"
+			"gfx/leaders/Settler/Portrait_Settler_Generic_4.dds"
+			"gfx/leaders/Settler/Portrait_Settler_Generic_5.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Europe/Portrait_Europe_Generic_navy_1.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_navy_3.dds"
+		}
+	}
+	
+	political = {
+		intellectuals = {
+				male = { 
+					"gfx/leaders/Brotherhood/Portrait_Brotherhood_Generic_1.dds"
+			}
+		}
+		people = {
+				male = { 
+					"gfx/leaders/Settler/Portrait_Settler_Generic_1.dds" 
+			}
+		}
+		elites = {
+				male = { 
+					"gfx/leaders/Settler/Portrait_Settler_Generic_1.dds" 
+			}
+		}
+		ruler = {
+				male = { 
+					"gfx/leaders/Raider/Portrait_Raider_Generic_1.dds" 
+			}
+		}
+	}
+}
+continent = {
+	name = north_america
+	army = {
+		male = {
+			"gfx/leaders/Settler/Portrait_Settler_Generic_1.dds"
+			"gfx/leaders/Settler/Portrait_Settler_Generic_2.dds"
+			"gfx/leaders/Settler/Portrait_Settler_Generic_3.dds"
+			"gfx/leaders/Settler/Portrait_Settler_Generic_4.dds"
+			"gfx/leaders/Settler/Portrait_Settler_Generic_5.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/Europe/Portrait_Europe_Generic_navy_1.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
+			"gfx/leaders/Europe/Portrait_Europe_Generic_navy_3.dds"
+		}
+	}
+	
+	political = {
+		intellectuals = {
+				male = { 
+					"gfx/leaders/Brotherhood/Portrait_Brotherhood_Generic_1.dds"
+			}
+		}
+		people = {
+				male = { 
+					"gfx/leaders/Settler/Portrait_Settler_Generic_1.dds" 
+			}
+		}
+		elites = {
+				male = { 
+					"gfx/leaders/Settler/Portrait_Settler_Generic_1.dds" 
+			}
+		}
+		ruler = {
+				male = { 
+					"gfx/leaders/Raider/Portrait_Raider_Generic_1.dds" 
+			}
+		}
+	}
+}
+# settler generic
+BEL = {
+	army = {
+		male = {
+			"gfx/leaders/Settler/Portrait_Settler_Generic_1.dds"
+			"gfx/leaders/Settler/Portrait_Settler_Generic_2.dds"
+			"gfx/leaders/Settler/Portrait_Settler_Generic_3.dds"
+			"gfx/leaders/Settler/Portrait_Settler_Generic_4.dds"
+			"gfx/leaders/Settler/Portrait_Settler_Generic_5.dds"
+		}
+	}
+	
+	navy = {
+		male = {
+			"gfx/leaders/South America/Portrait_South_America_Generic_navy_1.dds"
+			"gfx/leaders/South America/Portrait_South_America_Generic_navy_2.dds"
+			"gfx/leaders/South America/Portrait_South_America_Generic_navy_3.dds"
+		}
+	}	
 }
