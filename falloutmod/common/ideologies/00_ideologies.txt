@@ -9,7 +9,11 @@ ideologies = {
 			}
 			constitutional_republic = {
 			}
+			constitutional_monarchy {
+			}
 			commune = {
+			}
+			town_hall_democracy {
 			}
 		}
 		
