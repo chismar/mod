@@ -150,6 +150,8 @@ ideologies = {
 			}
 			indifferent_despotism = {
 			}
+			chieftain {
+			}
 		}
 
 		dynamic_faction_names = {
