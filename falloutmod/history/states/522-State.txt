@@ -1,12 +1,12 @@
 state={	id=522
-	name="STATE_524"
-	manpower=30000
+	name="STATE_522"
+	manpower=1000
 	state_category=rural
 	resources={
 }
 	history={
-		owner=ISN}
+		owner=TTM}
 	provinces={
-		1968 3727 3728 3928 3929 3982 3729 3981 3980 3979 3930 7221 7222 1955 
+		1835 2906 3081 3080 7966 7962 7964 7967 7963 7965 7960 7961 
 	}
 }

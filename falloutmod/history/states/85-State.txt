@@ -5,8 +5,8 @@ state={	id=85
 	resources={
 }
 	history={
-		owner=PAL}
+		owner=LON}
 	provinces={
-		3381 2761 1210 1199 1203 3554 3575 2775 
+		4597 4598 1574 1572 2625 8431 8430 1571 4599 8454 8453 
 	}
 }
