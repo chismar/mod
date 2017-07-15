@@ -11,13 +11,13 @@ elites = {
  popularity = 0 
 }
 intellectuals = {
- popularity = 0 
-}
-ruler = {
  popularity = 100 
 }
+ruler = {
+ popularity = 0 
 }
-		ruling_party = ruler
+}
+		ruling_party = intellectuals
 		elections_allowed = no
 }
 add_ideas = {

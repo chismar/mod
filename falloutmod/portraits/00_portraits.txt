@@ -107,7 +107,7 @@ continent = {
 	}
 }
 # settler generic
-BEL = {
+all_country = {
 	army = {
 		male = {
 			"gfx/leaders/Settler/Portrait_Settler_Generic_1.dds"

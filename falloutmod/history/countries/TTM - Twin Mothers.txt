@@ -14,10 +14,10 @@ intellectuals = {
  popularity = 0 
 }
 ruler = {
- popularity = 100 
+ popularity = 0 
 }
 }
-		ruling_party = ruler
+		ruling_party = people
 		elections_allowed = yes
 }
 add_ideas = {

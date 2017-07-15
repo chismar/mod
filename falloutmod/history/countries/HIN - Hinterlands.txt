@@ -9,16 +9,16 @@ people = {
  popularity = 0 
 }
 elites = {
- popularity = 0 
+ popularity = 100 
 }
 intellectuals = {
  popularity = 0 
 }
 ruler = {
- popularity = 100 
+ popularity = 0 
 }
 }
-		ruling_party = ruler
+		ruling_party = elites
 		elections_allowed = yes
 }
 add_ideas = {
