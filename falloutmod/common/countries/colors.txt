@@ -22,6 +22,12 @@ BPT = {
 	color = rgb { 120 125 0 }
 	color_ui = rgb { 120 125 0 }
 }
+
+BRK = {
+	color = rgb { 19 61 131 }
+	color_ui = rgb { 19 61 131 }
+}
+
 BVC = {
 	color = rgb { 174 161 11 }
 	color_ui = rgb { 174 161 11 }
@@ -218,9 +224,19 @@ TWO = {
 	color_ui = rgb { 255 196 0 }
 }
 
+TOC = {
+	color = rgb { 77 52 65 }
+	color_ui = rgb { 77 52 65 }
+}
+
 VIP = {
 	color = rgb { 24 212 25 }
 	color_ui = rgb { 24 212 25 }
+}
+
+YAK = {
+	color = rgb { 1 128 1 }
+	color_ui = rgb { 1 128 1 }
 }
 
 YKZ = {
