@@ -1,12 +1,12 @@
 state={	id=31
 	name="STATE_31"
-	manpower=1000
+	manpower=30000
 	state_category=rural
 	resources={
 }
 	history={
-		owner=TLO}
+		owner=TCA}
 	provinces={
-		780 2224 774 7643 7679 7680 7642 7641 
+		1974 4390 4107 1496 4370 5845 5844 4108 7599 7598 7596 7602 7597 7603 7600 7601 7613 
 	}
 }

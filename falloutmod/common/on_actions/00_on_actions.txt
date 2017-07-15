@@ -176,7 +176,7 @@ on_actions = {
 	#Not run on a specific country.
 	on_startup = {
 		effect = {
-			
+			add_manpower = army_manpower
 		}
 	}
 }

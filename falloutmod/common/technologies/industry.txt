@@ -758,17 +758,17 @@ technologies = {
 		}
 	}
 	
-	synth_oil_experiments = {
+	synth_fuel_experiments = {
 
 		enable_building = {
 			building = synthetic_refinery
 			level = 1
 		}
 		
-		#production_oil_factor = 0.1 #Can increase oil output - not used though.
+		#production_fuel_factor = 0.1 #Can increase fuel output - not used though.
 		
 		path = {
-			leads_to_tech = oil_plant 
+			leads_to_tech = fuel_plant 
 			research_cost_coeff = 1
 		}
 		
@@ -788,24 +788,24 @@ technologies = {
 			factor = 1
 			modifier = {
 				factor = 0.5
-				oil > 10
+				fuel > 10
 			}
 			modifier = {
 				factor = 0.5
-				oil > 20
+				fuel > 20
 			}	
 			modifier = {
 				factor = 0.5
-				oil > 30
+				fuel > 30
 			}			
 		}
 		
 		ai_research_weights = {
-			oil = -2.0
+			fuel = -2.0
 		}
 	}
 	
-	oil_plant = {
+	fuel_plant = {
 
 		enable_building = {
 			building = synthetic_refinery
@@ -813,7 +813,7 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = improved_oil_plant 
+			leads_to_tech = improved_fuel_plant 
 			research_cost_coeff = 1
 		}
 		
@@ -833,24 +833,24 @@ technologies = {
 			factor = 0.5
 			modifier = {
 				factor = 0.5
-				oil > 10
+				fuel > 10
 			}
 			modifier = {
 				factor = 0.5
-				oil > 20
+				fuel > 20
 			}	
 			modifier = {
 				factor = 0.5
-				oil > 30
+				fuel > 30
 			}			
 		}
 		
 		ai_research_weights = {
-			oil = -2.0
+			fuel = -2.0
 		}
 	}
 	
-	improved_oil_plant = {
+	improved_fuel_plant = {
 
 		enable_building = {
 			building = synthetic_refinery
@@ -858,7 +858,7 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = advanced_oil_plant 
+			leads_to_tech = advanced_fuel_plant 
 			research_cost_coeff = 1
 		}
 		
@@ -879,24 +879,24 @@ technologies = {
 			factor = 0.5
 			modifier = {
 				factor = 0.5
-				oil > 10
+				fuel > 10
 			}
 			modifier = {
 				factor = 0.5
-				oil > 20
+				fuel > 20
 			}	
 			modifier = {
 				factor = 0.5
-				oil > 30
+				fuel > 30
 			}			
 		}
 		
 		ai_research_weights = {
-			oil = -2.0
+			fuel = -2.0
 		}
 	}
 	
-	advanced_oil_plant = {
+	advanced_fuel_plant = {
 
 		enable_building = {
 			building = synthetic_refinery
@@ -904,7 +904,7 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = advanced_oil_plant 
+			leads_to_tech = advanced_fuel_plant 
 			research_cost_coeff = 1
 		}
 		
@@ -925,20 +925,20 @@ technologies = {
 			factor = 0.5
 			modifier = {
 				factor = 0.5
-				oil > 10
+				fuel > 10
 			}
 			modifier = {
 				factor = 0.5
-				oil > 20
+				fuel > 20
 			}	
 			modifier = {
 				factor = 0.5
-				oil > 30
+				fuel > 30
 			}			
 		}
 		
 		ai_research_weights = {
-			oil = -2.0
+			fuel = -2.0
 		}
 	}
 	
@@ -1009,24 +1009,24 @@ technologies = {
 			modifier = {
 				factor = 0.5
 				AND = {
-					oil > 0
-					aluminium > 0
-					rubber > 0
-					tungsten > 0
-					steel > 0
-					chromium > 0
+					fuel > 0
+					scrap > 0
+					components > 0
+					water > 0
+					scrap > 0
+					advanced > 0
 				}
 			}
 			
 			modifier = {
 				factor = 0.1
 				AND = {
-					oil > 8
-					aluminium > 8
-					rubber > 8
-					tungsten > 8
-					steel > 8
-					chromium > 8
+					fuel > 8
+					scrap > 8
+					components > 8
+					water > 8
+					scrap > 8
+					advanced > 8
 				}
 			}
 		}
@@ -1100,24 +1100,24 @@ technologies = {
 			modifier = {
 				factor = 0.5
 				AND = {
-					oil > 0
-					aluminium > 0
-					rubber > 0
-					tungsten > 0
-					steel > 0
-					chromium > 0
+					fuel > 0
+					scrap > 0
+					components > 0
+					water > 0
+					scrap > 0
+					advanced > 0
 				}
 			}
 			
 			modifier = {
 				factor = 0.1
 				AND = {
-					oil > 8
-					aluminium > 8
-					rubber > 8
-					tungsten > 8
-					steel > 8
-					chromium > 8
+					fuel > 8
+					scrap > 8
+					components > 8
+					water > 8
+					scrap > 8
+					advanced > 8
 				}
 			}
 		}
@@ -1203,24 +1203,24 @@ technologies = {
 			modifier = {
 				factor = 0.5
 				AND = {
-					oil > 0
-					aluminium > 0
-					rubber > 0
-					tungsten > 0
-					steel > 0
-					chromium > 0
+					fuel > 0
+					scrap > 0
+					components > 0
+					water > 0
+					scrap > 0
+					advanced > 0
 				}
 			}
 			
 			modifier = {
 				factor = 0.1
 				AND = {
-					oil > 8
-					aluminium > 8
-					rubber > 8
-					tungsten > 8
-					steel > 8
-					chromium > 8
+					fuel > 8
+					scrap > 8
+					components > 8
+					water > 8
+					scrap > 8
+					advanced > 8
 				}
 			}
 		}
@@ -1294,24 +1294,24 @@ technologies = {
 			modifier = {
 				factor = 0.5
 				AND = {
-					oil > 0
-					aluminium > 0
-					rubber > 0
-					tungsten > 0
-					steel > 0
-					chromium > 0
+					fuel > 0
+					scrap > 0
+					components > 0
+					water > 0
+					scrap > 0
+					advanced > 0
 				}
 			}
 			
 			modifier = {
 				factor = 0.1
 				AND = {
-					oil > 8
-					aluminium > 8
-					rubber > 8
-					tungsten > 8
-					steel > 8
-					chromium > 8
+					fuel > 8
+					scrap > 8
+					components > 8
+					water > 8
+					scrap > 8
+					advanced > 8
 				}
 			}
 		}
@@ -1383,24 +1383,24 @@ technologies = {
 			modifier = {
 				factor = 0.5
 				AND = {
-					oil > 0
-					aluminium > 0
-					rubber > 0
-					tungsten > 0
-					steel > 0
-					chromium > 0
+					fuel > 0
+					scrap > 0
+					components > 0
+					water > 0
+					scrap > 0
+					advanced > 0
 				}
 			}
 			
 			modifier = {
 				factor = 0.1
 				AND = {
-					oil > 8
-					aluminium > 8
-					rubber > 8
-					tungsten > 8
-					steel > 8
-					chromium > 8
+					fuel > 8
+					scrap > 8
+					components > 8
+					water > 8
+					scrap > 8
+					advanced > 8
 				}
 			}
 		}

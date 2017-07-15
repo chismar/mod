@@ -24,10 +24,11 @@ add_ideas = {
 }
 create_country_leader  = {
 name = "Chief Techki"
-desc = "Caesar_DESC"
+desc = "Chief Techki_DESC"
 picture = "Portrait_Sho_Chieftain.dds"
 expire = "3000.1.1"
-ideology = chieftain
+ideology =chieftain
 traits = {
-} 
 }
+}
+

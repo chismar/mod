@@ -9,11 +9,11 @@ ideologies = {
 			}
 			constitutional_republic = {
 			}
-			constitutional_monarchy {
+			constitutional_monarchy = {
 			}
 			commune = {
 			}
-			town_hall_democracy {
+			town_hall_democracy = {
 			}
 		}
 		
@@ -150,7 +150,7 @@ ideologies = {
 			}
 			indifferent_despotism = {
 			}
-			chieftain {
+			chieftain = {
 			}
 		}
 

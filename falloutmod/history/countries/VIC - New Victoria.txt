@@ -1,4 +1,4 @@
-﻿capital = 525
+﻿capital = 472
 oob = "VIC_2265"
 set_technology = {
 infantry_weapons = 1
@@ -23,14 +23,13 @@ ruler = {
 }
 add_ideas = {
 }
-
 create_country_leader  = {
 name = "Queen Victoria VI"
-desc = "Caesar_DESC"
+desc = "Queen Victoria VI_DESC"
 picture = "Portrait_Queen_Victoria_VI.dds"
 expire = "3000.1.1"
 ideology =constitutional_monarchy
 traits = {
-} 
+}
 }
 
