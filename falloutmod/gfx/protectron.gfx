@@ -26,7 +26,7 @@ objectTypes = {
 		animation = { id = "aim_exercise"	type = "GER_infantry_aim_exercise_animation" }
 		
 		meshsettings = {
-			texture_diffuse = "white1024dds.dds"
+			texture_diffuse = "protectron_diffuse.dds"
 			texture_normal = "protectron_normal.dds"
 			texture_specular = "protectron_specular.dds"
 			scale = 0.4
