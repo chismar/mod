@@ -32,3 +32,10 @@ traits = {
 }
 }
 
+create_corps_commander = {
+name = "Scorpio"
+portrait_path = "gfx/leaders/SCP/Portrait_SCP_Leader.dds"
+skill =2
+traits = {
+}
+}
