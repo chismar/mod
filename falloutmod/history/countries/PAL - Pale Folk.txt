@@ -23,11 +23,11 @@ ruler = {
 add_ideas = {
 }
 create_country_leader  = {
-name = "Eddie"
+name = "Edd Pukaloy"
 desc = "Eddie_DESC"
-picture = "Portrait_Eddie.dds"
+picture = "Portrait_PAL_Leader.dds"
 expire = "3000.1.1"
-ideology =militarist_oligarchy
+ideology =chieftain
 traits = {
 }
 }

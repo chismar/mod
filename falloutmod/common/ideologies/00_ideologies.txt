@@ -153,6 +153,8 @@ ideologies = {
 			}
 			chieftain = {
 			}
+			gang = {
+			}
 		}
 
 		dynamic_faction_names = {
