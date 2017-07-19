@@ -33,7 +33,7 @@ ideas = {
 			}
 
 			modifier = {
-				conscription = 0.015
+				conscription = 0.05
 			}
 			
 			default = yes
@@ -55,7 +55,7 @@ ideas = {
 			}
 
 			modifier = {
-				conscription = 0.025
+				conscription = 0.1
 			}
 			
 			cancel_if_invalid = no
@@ -121,7 +121,7 @@ ideas = {
 			level = 3
 
 			modifier = {
-				conscription = 0.1
+				conscription = 0.3
 				industrial_capacity_factory = -0.1
 				industrial_capacity_dockyard = -0.1
 				production_speed_buildings_factor = -0.1
@@ -152,7 +152,7 @@ ideas = {
 			level = 2
 			
 			modifier = {
-				conscription = 0.2
+				conscription = 0.6
 				industrial_capacity_factory = -0.3
 				industrial_capacity_dockyard = -0.3
 				production_speed_buildings_factor = -0.3
@@ -185,7 +185,7 @@ ideas = {
 			level = 1
 
 			modifier = {
-				conscription = 0.25
+				conscription = 0.8
 				industrial_capacity_factory = -0.4
 				industrial_capacity_dockyard = -0.4
 				production_speed_buildings_factor = -0.4
