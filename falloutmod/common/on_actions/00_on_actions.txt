@@ -114,24 +114,30 @@ on_actions = {
 
 	#PREV is the one that joins the faction
 	on_create_faction = {
+		effect = {
+		}
 
 	}
 
 	#PREV is country getting invited.
 	on_offer_join_faction = {
+		effect = {
+		}
 
 	}
 
 	#PREV is faction leader on join faction requests.
 	on_join_faction = {
+		effect = {
+		}
 
 	}
 
 	#PREV is war target
 	on_declare_war = {
 		effect = {
-			FROM = { set_country_flag = had_war }
-			ROOT = { set_country_flag = had_war }
+			#FROM = { set_country_flag = had_war }
+			#ROOT = { set_country_flag = had_war }
 		}
 	}
 
