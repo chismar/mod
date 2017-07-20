@@ -24,10 +24,10 @@ add_ideas = {
 }
 create_country_leader  = {
 name = "Bracos"
-desc = "Eddie_DESC"
+desc = "Bracos_DESC"
 picture = "Portrait_TWI_Leader.dds"
 expire = "3000.1.1"
-ideology = chieftain
+ideology =chieftain
 traits = {
 }
 }

@@ -1,0 +1,12 @@
+state={	id=568
+	name="STATE_570"
+	manpower=1000
+	state_category=rural
+	resources={
+}
+	history={
+		owner=CYC}
+	provinces={
+		8519 8517 8518 8516 8513 8514 3666 1583 8520 8515 
+	}
+}

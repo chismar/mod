@@ -24,10 +24,10 @@ add_ideas = {
 }
 create_country_leader  = {
 name = "Cranium"
-desc = "Eddie_DESC"
+desc = "Cranium_DESC"
 picture = "Portrait_BDT_Leader.dds"
 expire = "3000.1.1"
-ideology = warlordship
+ideology =warlordship
 traits = {
 }
 }

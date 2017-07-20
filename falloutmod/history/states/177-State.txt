@@ -1,12 +1,12 @@
 state={	id=177
-	name="STATE_177"
+	name="STATE_178"
 	manpower=1000
 	state_category=rural
 	resources={
 }
 	history={
-		owner=LGS}
+		owner=DEA}
 	provinces={
-		7788 7806 7895 7910 7805 7894 7791 7889 7890 7907 7789 7795 7815 7804 7816 7906 
+		7566 7565 3136 7564 
 	}
 }

@@ -24,10 +24,10 @@ add_ideas = {
 }
 create_country_leader  = {
 name = "Guarez"
-desc = "Eddie_DESC"
+desc = "Guarez_DESC"
 picture = "Portrait_BLP_Leader.dds"
 expire = "3000.1.1"
-ideology = gang
+ideology =gang
 traits = {
 }
 }

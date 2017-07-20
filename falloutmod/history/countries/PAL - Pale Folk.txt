@@ -24,7 +24,7 @@ add_ideas = {
 }
 create_country_leader  = {
 name = "Edd Pukaloy"
-desc = "Eddie_DESC"
+desc = "Edd Pukaloy_DESC"
 picture = "Portrait_PAL_Leader.dds"
 expire = "3000.1.1"
 ideology =chieftain

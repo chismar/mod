@@ -24,10 +24,10 @@ add_ideas = {
 }
 create_country_leader  = {
 name = "Pancho Villa"
-desc = "Eddie_DESC"
+desc = "Pancho Villa_DESC"
 picture = "Portrait_BVC_Leader.dds"
 expire = "3000.1.1"
-ideology = gang
+ideology =gang
 traits = {
 }
 }
