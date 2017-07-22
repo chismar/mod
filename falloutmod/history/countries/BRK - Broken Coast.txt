@@ -33,3 +33,13 @@ traits = {
 }
 }
 
+create_corps_commander = {
+name = "Graven"
+portrait_path = "gfx/leaders/BRK/Portrait_BRK_Leader.dds"
+skill = 4
+traits = {
+trait_mountaineer
+winter_specialist
+naval_invader
+}
+}
