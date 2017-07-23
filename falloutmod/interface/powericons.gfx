@@ -9,19 +9,19 @@ spriteTypes = {
 	### Ideologies
 	spriteType = {
 		name = "GFX_ideology_people_group"
-		texturefile = "gfx/interface/ideologies/people_group.dds"
+		textureFile = "gfx/interface/ideologies/people_group.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_intellectuals_group"
-		texturefile = "gfx/interface/ideologies/intellectuals_group.dds"
+		textureFile = "gfx/interface/ideologies/intellectuals_group.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_elites_group"
-		texturefile = "gfx/interface/ideologies/elites_group.dds"
+		textureFile = "gfx/interface/ideologies/elites_group.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_ruler_group"
-		texturefile = "gfx/interface/ideologies/ruler_group.dds"
+		textureFile = "gfx/interface/ideologies/ruler_group.dds"
 	}
 
 	##################################
@@ -83,7 +83,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_unit_bikers_icon_medium"
-		texturefile = "gfx/interface/counters/divisions_large/unit_bikes_icon.dds"
+		textureFile = "gfx/interface/counters/divisions_large/unit_bikes_icon.dds"
 		legacy_lazy_load = no
 		noOfFrames = 1
 	}
